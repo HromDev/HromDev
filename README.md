@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://img.shields.io/badge/Портфолио-открыть-0a84ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Портфолио"></a>
+  <a href="portfolio.hrom-dev.tech"><img src="https://img.shields.io/badge/Портфолио-открыть-0a84ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Портфолио"></a>
   <a href="https://t.me/TheDark_Cardinal"><img src="https://img.shields.io/badge/Telegram-написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://vk.com/hrom_dev"><img src="https://img.shields.io/badge/VK-hrom__dev-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
   <a href="mailto:devhrom@gmail.com"><img src="https://img.shields.io/badge/Email-devhrom@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -37,13 +37,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/hrom-tools/launcher-home.png" alt="HROM TOOLS"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/hrom-tools/launcher-home.png" alt="HROM TOOLS"></a>
       <h3>🛡️ HROM TOOLS 2.0</h3>
       Инструменты администратора RADMIR CRMP: ASI-плагин на C++ (ImGui), лаунчер на Tauri + Rust с VK ID и автообновлением, PHP-сервер с подписанным API (Ed25519) и лендинг на Laravel + React.<br>
       <sub><b>C++ · Rust · Tauri · PHP · Laravel · React</b></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/radmir-answer-model/demo-gang.png" alt="Radmir Answer Model"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/radmir-answer-model/demo-gang.png" alt="Radmir Answer Model"></a>
       <h3>🧠 Radmir Answer Model</h3>
       Классификатор репортов без нейросетей: хешированные n-граммы, скомпилирован в C++ плагин. 151 интент, top-1 77,5 %, top-3 94 %.<br>
       <sub><b>Python · NumPy · scikit-learn · C++ · Active learning</b></sub>
@@ -51,13 +51,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/leader-system-16/home.png" alt="Leader System 16"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/leader-system-16/home.png" alt="Leader System 16"></a>
       <h3>👑 Leader System 16</h3>
       Центр управления лидерами и рекрутингом: Python-сервер с REST API и SQLite, фронтенд на Vue 3, VK ID, PDF-отчёты.<br>
       <sub><b>Python · Vue 3 · SQLite · ReportLab</b></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/nevsky-rp/inventory.png" alt="Nevsky RP"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/nevsky-rp/inventory.png" alt="Nevsky RP"></a>
       <h3>🎮 Nevsky Role-Play</h3>
       RAGE MP сервер: логика на C#, инвентарь, админка, криминальная система и CEF-интерфейсы (командный проект).<br>
       <sub><b>C# · RAGE MP · JavaScript · MySQL</b></sub>
@@ -65,13 +65,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/vozrozhdenie-bot/panel-sclad.png" alt="Возрождение"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/vozrozhdenie-bot/panel-sclad.png" alt="Возрождение"></a>
       <h3>🦅 Возрождение: сайт, панель и бот</h3>
       Лендинг, Laravel-панель (Discord OAuth, склад, должности, иерархия) и Discord-бот, связанные по WebSocket.<br>
       <sub><b>Laravel · Blade · Tailwind · Python · disnake</b></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hromdev.github.io/ide-portfolio/"><img src="https://hromdev.github.io/ide-portfolio/projects/schedule-app/schedule.png" alt="Schedule App" height="360"></a>
+      <a href="portfolio.hrom-dev.tech/"><img src="portfolio.hrom-dev.tech/projects/schedule-app/schedule.png" alt="Schedule App" height="360"></a>
       <h3>📅 Schedule App</h3>
       Telegram Mini App с расписанием университета: группы, преподаватели, бесконечный скролл по дням и утренняя рассылка ботом.<br>
       <sub><b>Vue 3 · Pinia · TypeScript · Telegram WebApp</b></sub>
@@ -81,7 +81,7 @@
 
 ## 📦 Все проекты
 
-Полное описание, стек и скриншоты каждого проекта — в [портфолио](https://hromdev.github.io/ide-portfolio/).
+Полное описание, стек и скриншоты каждого проекта — в [портфолио](portfolio.hrom-dev.tech/).
 
 ### Платформы и сайты
 | Проект | Что это | Стек |
